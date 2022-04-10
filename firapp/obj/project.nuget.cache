@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvK+vaS3AAQ3kVsIyrZdd1tTa+6V3Ld1rSww93QM7FG5xWZ/QrJHTrAXA36haE0VO1aT5IS35vUnmAepxvA8mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kislaysinha\\Desktop\\My ASSGN\\kislaysinha\\firapp\\firapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kislaysinha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
