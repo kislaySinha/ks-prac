@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: kislaysinhaksprac 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: kislaysinhaksprac
+  template:
+    metadata:
+      labels:
+        app: kislaysinhaksprac 
+    spec:
+      containers:
+        - name: kislaysinhaksprac 
+          image: ksreg1.azurecr.io/kislaysinhaksprac
+          ports:
+          - containerPort: 80
